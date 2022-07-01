@@ -1,3 +1,12 @@
+<h1>FootBall App! </>
+
+Football App is a single page React application, that allows users to look into the leagues, and the standings of the Beautiful Game, Football. It currently shows twenty leagues from all over the world, and the standings of each league from 2011 to 2022. 
+
+<h2>TO DO:</h2>
+
+This is just the beginning of this app, I want the users to be able to click on a professional League and get a bio on it. Showing a small list of the teams currently in the league. And in the standings I want Users to be able to click on the teams names to get a pop-up that will show the teams W-L-D record. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
